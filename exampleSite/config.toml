@@ -82,7 +82,7 @@ description = "This is meta description"
 email = "adelie.sallou.rotary@gmail.com"
 google_analitycs_id = "Your ID"
 location = "Paris, France"
-logo = "images/logo-1.png"
+logo = "images/logo_small.png"
 mobile = "0124857985320"
 [params.gmap]
 enable = true
