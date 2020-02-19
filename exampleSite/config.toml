@@ -79,9 +79,9 @@ weight = 6
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "adelie.sallou.rotary@gmail.com"
 google_analitycs_id = "Your ID"
-location = "North Main Street,Brooklyn Australia"
+location = "Paris, France"
 logo = "images/logo-1.png"
 mobile = "0124857985320"
 [params.gmap]
