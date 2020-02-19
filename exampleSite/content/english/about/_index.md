@@ -1,6 +1,6 @@
 ---
 title: About Our Organisation
-description: this is meta description
+description: ''
 bg_image: images/featue-bg.jpg
 
 ---
