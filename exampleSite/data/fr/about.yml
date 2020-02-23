@@ -2,66 +2,66 @@
 about:
   enable: true
   image: images/company/about.jpg
-  title: We strive to be the best and <br> make awesome work.
+  title: Object social de l'association
   content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
 
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
   button:
-    enable: true
+    enable: false
     label: Download Company Profile
-    link: "#"
+    link: "#" 
   funfacts:
-  - icon: ion-ios-flask-outline
+  - icon: ion-ios-body-outline #ion-ios-flask-outline
     name: Members
-    count: "349"
+    count: "8"
   - icon: ion-ios-flame-outline
-    name: Lines Of Code
+    name: Vélos
     count: "35000"
   - icon: ion-ios-pint-outline
-    name: Satisfied Customer
-    count: "70"
+    name: Nationalités
+    count: "7"
   - icon: ion-ios-wineglass-outline
-    name: Awards Winner
+    name: Partenaires
     count: "10"
   - icon: ion-ios-chatboxes-outline
-    name: Satisfied Customer
+    name: Evénements
     count: "75"
   - icon: ion-ios-body-outline
-    name: Awards Winner
-    count: "20"
+    name: Date de création
+    count: "2020"
 features:
   enable: true
-  title: We are indepented Design & Development Agency
+  title: Nos valeurs
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: IOS App Development
+    name: Développement Durable
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-unlocked-outline
-    name: App Secutity
+    name: Egalité
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-game-controller-b-outline
-    name: Games Development
+    name: Education
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-mic-outline
-    name: Animation and Editing
+    name: Leadership
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-lightbulb-outline
-    name: UI/UX Design
+    name: Innovation
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-star-outline
-    name: Branding
+    name: Entraide
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
 testimonial:
   enable: true
 mission_vision:
-  enable: true
+  enable: false
   tabs:
   - name: Vision
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
