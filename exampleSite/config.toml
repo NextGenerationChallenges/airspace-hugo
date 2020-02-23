@@ -58,7 +58,7 @@ name = "Blog"
 weight = 4
 [[menu.main]]
 URL = "service"
-name = "Our Action"
+name = "Projects"
 weight = 2
 [params]
 author = "Themefisher"
