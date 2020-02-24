@@ -84,8 +84,8 @@ funfacts:
       
     # funfacts item loop
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Combined Projects"
-      count : "200"
+      name : "Vélos financés"
+      count : "121"
 
   testimonial_slider:
     # testimonial item loop
