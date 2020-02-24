@@ -1,26 +1,28 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Ride jusqu'à Hambourg"
+description: "Relier Thionville à Hambourg en vélo en 7 jours"
 draft: false
-image : "images/portfolio/work1.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "UI/UX Design"
+image : "images/logo_small.png"
+bg_image: "images/logo_small.png"
+category: "World Bicycle Relief"
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
+  - label : "Lieu"
+    info : "France"
+  - label : "Date"
+    info : "01-06-2019"
+  - label : "Objectif"
+    info : "Levée de fond, balade cycliste"
+  - label : "Projet"
+    info : "WBR"
   - label : "Completed on"
     info : "17th March 2014"
   - label : "Skills"
     info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "Contact"
+    info : "Rotaract club"
 ---
 
-## Behance Website Redesign
+## Description de l'événement
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
